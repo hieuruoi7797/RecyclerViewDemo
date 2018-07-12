@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">RecyclerViewDemo</string>
+    <string name="app_name">Indie Artists</string>
+    <string name="cahoihoang">CA_HOI_HOANG</string>
+    <string name="ngot">NGOT</string>
+    <string name="quaivattihon">QUAI_VAT_TI_HON</string>
+    <string name="nhungduatre">NHUNG_DUA_TRE</string>
+    <string name="gacmai">GAC_MAI</string>
 </resources>
+
